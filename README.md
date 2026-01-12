@@ -7,7 +7,7 @@ This project contains simulation models, example control code, and demonstration
 
 A detailed project report describing the design, modeling, control strategy, and results is available here:
 
-👉 **[SBCA Project Report (PDF)](https://github.com/griffblob/SBCA/blob/main/REPORT.pdf)**
+👉 **[SBCA Project Report (PDF)](https://github.com/griffblob/SBCA/blob/main/Final_Report.pdf)**
 
 
 
